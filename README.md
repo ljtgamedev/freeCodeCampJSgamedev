@@ -1,0 +1,2 @@
+# JavaScript Game Development Course for Beginners
+This repository is used to follow FreeCodeCamp's JavaScript Game Development Course for Beginners 2022 by Franks laboratory you can find it here: https://www.youtube.com/watch?v=GFO_txvwK_c
